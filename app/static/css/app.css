@@ -1,3 +1,10 @@
 body {
     padding-top: 5rem;
+    background-image: url('/static/images/logo.png')
 }
+
+#description{width: 50vw !important;}
+#photo{width: 30vw !important;}
+.card{padding-left: 20px;padding-top: 20px; 
+padding-bottom: 20px; box-shadow: 10px 10px 10px #34495E; }
+.navbar{background-color: #34495E !important; border: 2px solid white;}
